@@ -4,9 +4,9 @@
   --bg: #fbfaff;
   --card: #ffffff;
   --line: #e6e0f5;
-  --brand: #783ccc;
-  --brand-soft: #b484fc;
-  --tint: #f3ecff;
+  --brand: #7d46f5;
+  --brand-soft: #9961fc;
+  --tint: #f1eaff;
 }
 @media (prefers-color-scheme: dark) {
   :root {
